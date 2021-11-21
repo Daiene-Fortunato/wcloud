@@ -17,7 +17,7 @@ Há duas maneiras de utilizar o código:
 1. Através do [Google Colab](https://colab.research.google.com/), você não vai precisar instalar nada e poderá fazer o download das imagens que gerar.
 2. Através do seu ambiente local, para essa escolha tenha atenção especial aos requisitos informados, pois será necessário baixar uma IDE, módulos e etc.
 
-​	Atenha-se ao fato de que eu não vou te ensinar a fazer o deploy deste projeto, pois ele é muito simples para "ocupar" espaço nas plataformas de armazenamento.
+​	Obs: eu não vou te ensinar a fazer o deploy deste projeto, mas se for fazer use o Streamlit Share ou o Heroku, são gratuitos e fáceis de usar.
 
 ### Usando o Google Colab (recomendado)
 
@@ -28,8 +28,8 @@ Há duas maneiras de utilizar o código:
 Para executar o WCloud no google colab você vai precisar:
 
 1. Possuir uma conta google e acessar o colab [aqui](https://colab.research.google.com/)
-2. Inserir o código exatamente como nesse arquivo
-3. Adicionar a pasta do ambiente o seu "arquivo.pdf", copiar seu caminho e inserir no código
+2. Inserir o código exatamente como nesse [arquivo](https://github.com/Daiene-Fortunato/wcloud/blob/main/codigocolab.ipynb)
+3. Adicionar na pasta do ambiente o seu "arquivo.pdf", copiar seu caminho e inserir no código
 4. Rodar cada seção do código
 5. Fazer o download do arquivo "mywordcloud.png" gerado na pasta do ambiente
 
@@ -71,14 +71,14 @@ Uma vez que esse repositório esteja ativo na sua máquina:
 
 1. Pelo prompt do Anaconda use o streamlit para rodar o wcloud.py
 2. Uma aba do seu browser deve abrir contendo um painel interativo
-3. Insira o arquivo.pdf que deseja analisar
+3. Insira o arquivo.pdf que deseja analisar (apenas a primeira página será utilizada)
 4. Clique em "Gerar Imagem"
 5.  A imagem gerada com sua nuvem de palavras aparecerá na tela
 6. Um novo arquivo chamado "mywordcloud.png" deve surgir no seu diretório local, é ele que você está visualizando na aplicação
 
-## Origem do Projeto
+## Origem do Projeto e Agradecimentos
 
-​				A ideia de inserir esse pequeno projeto de forma organizada para auxiliar devs iniciantes surgiu durante uma aula do Curso de Imersão em Data Science da [Flai](https://www.flai.com.br/) uma empresa de consultoria e ensino que eu descobri por acaso, mas que deu uma luz nos meus estudos e capacitação.
+​				A ideia de inserir esse pequeno projeto de forma organizada para auxiliar devs iniciantes surgiu durante uma aula do Curso de Imersão em Data Science da [Flai](https://www.flai.com.br/) uma empresa de consultoria e ensino que eu descobri por acaso, mas que deu uma luz nos meus estudos. Fica registrado meu agradecimento.
 
 ​				O modelo utilizado para o Google Colab é uma cópia do que foi escrito em aula para exemplificar uma das tantas possibilidades da análise de dados em arquivos de texto, já a codificação para o ambiente local foi alterada e incrementada por mim para se tornar viável como uma aplicação Web independente.
 
@@ -86,11 +86,27 @@ Uma vez que esse repositório esteja ativo na sua máquina:
 
 ​		Teve uma ideia que pode melhorar ou acrescentar algo bacana ao projeto? Leia [CONTRIBUINDO.md]() para obter detalhes sobre o processo de envio de solicitações pull.
 
+**Desafios Propostos:**
+
+(iniciante)
+
+- [ ] Criar uma função para deixar o código mais organizado
+- [ ] Excluir o save automático e criar um botão para baixar a imagem gerada
+- [ ] Criar a opção de selecionar vários arquivos de texto e gerar imagens para cada um deles importando automaticamente o nome dos arquivos
+
+(avançado)
+
+- [ ] Criar a opção de selecionar layout para a imagem (formas, cores e tamanhos
+
+Divirta-se!
+
+
+
 ## Autoras
 
 Código para o Google Colab: 
 
-- [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br)
+- Professora [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br) - Data Science e Inteligência Artificial
 - Email: juliana-scudilio@uol.com.br
 
 ![JULIANA SCUDILIO](https://media-exp1.licdn.com/dms/image/C4E03AQEepqyGWj1iww/profile-displayphoto-shrink_200_200/0/1619750599237?e=1643241600&v=beta&t=qxhlW1i4hg-C-Nndyw4z8usKS_KXcQVHBYz_GV0E_lU)
@@ -108,4 +124,5 @@ Código da aplicação Web:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/Daiene-Fortunato/wcloud/blob/main/LICENSE) para detalhes
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](https://github.com/Daiene-Fortunato/wcloud/blob/main/LICENSE.md) para detalhes
+
