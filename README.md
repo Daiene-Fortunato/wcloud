@@ -90,7 +90,8 @@ Uma vez que esse repositório esteja ativo na sua máquina:
 
 Código para o Google Colab: 
 
-- [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br) - Email: juliana-scudilio@uol.com.br
+- [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br)
+- Email: juliana-scudilio@uol.com.br
 
 ![JULIANA SCUDILIO](https://media-exp1.licdn.com/dms/image/C4E03AQEepqyGWj1iww/profile-displayphoto-shrink_200_200/0/1619750599237?e=1643241600&v=beta&t=qxhlW1i4hg-C-Nndyw4z8usKS_KXcQVHBYz_GV0E_lU)
 
@@ -98,7 +99,8 @@ Código para o Google Colab:
 
 Código da aplicação Web:
 
-- [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Email: daiene.fortunato@gmail.com
+- [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/)
+- Email: daiene.fortunato@gmail.com
 
 ![Daiene Fortunato](https://media-exp1.licdn.com/dms/image/D4E03AQGBXxy-MaASgA/profile-displayphoto-shrink_200_200/0/1634165214468?e=1643241600&v=beta&t=3nP5RbaTr6Sw_K4_6v255iU3MTWK6u94AF2Cxzf60nk)
 
