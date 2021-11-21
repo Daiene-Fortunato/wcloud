@@ -1,4 +1,4 @@
-![Licensa MIT](https://img.shields.io/github/license/Daiene-Fortunato/Projeto_CVMatch)![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/wcloud)
+![Licensa MIT](https://img.shields.io/github/license/Daiene-Fortunato/wcloud)![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/wcloud)
 
 # :cloud: WCloud :cloud: - Seja bem-vindo!
 
@@ -108,4 +108,4 @@ Código da aplicação Web:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md]() para detalhes
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/Daiene-Fortunato/wcloud/blob/main/LICENSE) para detalhes
