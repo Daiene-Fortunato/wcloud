@@ -29,9 +29,9 @@ Para executar o WCloud no google colab você vai precisar:
 
 1. Possuir uma conta google e acessar o colab [aqui](https://colab.research.google.com/)
 2. Inserir o código exatamente como nesse arquivo
-3. Acrescentar ao projeto o seu "arquivo.pdf" e mudar o caminho dele no código
+3. Adicionar a pasta do ambiente o seu "arquivo.pdf", copiar seu caminho e inserir no código
 4. Rodar cada seção do código
-5. Fazer o download do arquivo "wordcloud.png" gerado na pasta do ambiente
+5. Fazer o download do arquivo "mywordcloud.png" gerado na pasta do ambiente
 
 ​	Todas as ações são interativas e fáceis de serem implementadas, tenha calma e observe o ambiente ou assista vídeos de instrução no youtube.
 
