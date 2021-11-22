@@ -2,7 +2,7 @@
 
 # :cloud: WCloud :cloud: - Seja bem-vindo!
 
-​		Projeto de **Data Science** para iniciantes que desejam aprender a executar o tratamento e análise de dados simples através da programação com **Python**. Tem o objetivo de gerar um arquivo de imagem contendo uma nuvem de palavras extraída de documentos de texto.
+​		Projeto de **Data Science** para iniciantes que desejam aprender a executar o tratamento e análise de dados simples através da programação com **Python**, **Markdown**, **Jupyter** e **StreamLit**. Tem o objetivo de gerar um arquivo de imagem contendo uma nuvem de palavras extraída de documentos de texto.
 
 ​		Criar uma **nuvem de palavras** pode ajudar o analista a identificar padrões de linguagem e reconhecer as palavras_chaves mais utilizadas em textos, relatórios e currículos. Há ainda algumas pessoas que utilizam o recurso para decorações de sites ou até mesmo estabelecimentos e residências.
 
@@ -117,8 +117,11 @@ Contribuiu com:
 5. CONTRIBUTING.md
 6. example.png
 
-- [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Gestora de TI e Dev Backend
-- Email: daiene.fortunato@gmail.com
+
+
+:woman_student: [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Gestora de TI e Dev Backend
+
+:email:  daiene.fortunato@gmail.com
 
 ![Daiene Fortunato](https://media-exp1.licdn.com/dms/image/D4E03AQGBXxy-MaASgA/profile-displayphoto-shrink_200_200/0/1634165214468?e=1643241600&v=beta&t=3nP5RbaTr6Sw_K4_6v255iU3MTWK6u94AF2Cxzf60nk)
 
@@ -128,13 +131,13 @@ Contribuiu com:
 
 Contribuiu com:
 
-1. Origem do **codigocolab.ipynb**
+1. Origem do **colab.ipynb**
 
 
 
-Professora [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br) - Data Science e Inteligência Artificial
+:woman_student: [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br) - Data Science e Inteligência Artificial
 
-Email: juliana-scudilio@uol.com.br
+:email: juliana-scudilio@uol.com.br
 
 ![JULIANA SCUDILIO](https://media-exp1.licdn.com/dms/image/C4E03AQEepqyGWj1iww/profile-displayphoto-shrink_200_200/0/1619750599237?e=1643241600&v=beta&t=qxhlW1i4hg-C-Nndyw4z8usKS_KXcQVHBYz_GV0E_lU)
 
