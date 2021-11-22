@@ -17,7 +17,7 @@ Há duas maneiras de utilizar o código:
 1. Através do [Google Colab](https://colab.research.google.com/), você não vai precisar instalar nada e poderá fazer o download das imagens que gerar.
 2. Através do seu ambiente local, para essa escolha tenha atenção especial aos requisitos informados, pois será necessário baixar uma IDE, módulos e etc.
 
-​	Obs: eu não vou te ensinar a fazer o deploy deste projeto, mas se for fazer use o Streamlit Share ou o Heroku, são gratuitos e fáceis de usar.
+​	Obs: eu não vou te ensinar a fazer o deploy deste projeto, mas se for fazer use o [Streamlit Share](https://share.streamlit.io/) ou o [Heroku](https://heroku.com/), são gratuitos e fáceis de usar.
 
 ### Usando o Google Colab (recomendado)
 
@@ -28,7 +28,7 @@ Há duas maneiras de utilizar o código:
 Para executar o WCloud no google colab você vai precisar:
 
 1. Possuir uma conta google e acessar o colab [aqui](https://colab.research.google.com/)
-2. Inserir o código exatamente como nesse [arquivo](https://github.com/Daiene-Fortunato/wcloud/blob/main/codigocolab.ipynb)
+2. Inserir o código exatamente como nesse [arquivo](https://github.com/Daiene-Fortunato/wcloud/blob/main/colab.ipynb)
 3. Adicionar na pasta do ambiente o seu "arquivo.pdf", copiar seu caminho e inserir no código
 4. Rodar cada seção do código
 5. Fazer o download do arquivo "mywordcloud.png" gerado na pasta do ambiente
@@ -37,7 +37,7 @@ Para executar o WCloud no google colab você vai precisar:
 
 - Exemplo de extração a partir de um currículo:
 
-![wordcloud](https://github.com/Daiene-Fortunato/wcloud/blob/main/wordcloud.png?raw=true)
+![wordcloud](https://github.com/Daiene-Fortunato/wcloud/blob/main/example.png?raw=true)
 
 
 
@@ -67,6 +67,8 @@ Para executar o WCloud no google colab você vai precisar:
 - Saber implementar uma aplicação no local host através do StreamLit
 - Saber fazer um fork do github e puxar ele para sua máquina local
 
+**Acessando a aplicação**
+
 Uma vez que esse repositório esteja ativo na sua máquina:
 
 1. Pelo prompt do Anaconda use o streamlit para rodar o wcloud.py
@@ -76,6 +78,8 @@ Uma vez que esse repositório esteja ativo na sua máquina:
 5.  A imagem gerada com sua nuvem de palavras aparecerá na tela
 6. Um novo arquivo chamado "mywordcloud.png" deve surgir no seu diretório local, é ele que você está visualizando na aplicação
 
+7. Para fazer o deploy basta acrescentar os arquivos necessários em seu repositório e enviar
+
 ## Origem do Projeto e Agradecimentos
 
 ​				A ideia de inserir esse pequeno projeto de forma organizada para auxiliar devs iniciantes surgiu durante uma aula do Curso de Imersão em Data Science da [Flai](https://www.flai.com.br/) uma empresa de consultoria e ensino que eu descobri por acaso, mas que deu uma luz nos meus estudos. Fica registrado meu agradecimento.
@@ -84,7 +88,7 @@ Uma vez que esse repositório esteja ativo na sua máquina:
 
 ## Contribuindo
 
-​		Teve uma ideia que pode melhorar ou acrescentar algo bacana ao projeto? Leia [CONTRIBUINDO.md]() para obter detalhes sobre o processo de envio de solicitações pull.
+​		Teve uma ideia que pode melhorar ou acrescentar algo bacana ao projeto? Leia [CONTRIBUTING.md](https://github.com/Daiene-Fortunato/wcloud/blob/main/CONTRIBUTING.md) para obter detalhes sobre o processo de envio de solicitações pull.
 
 **Desafios Propostos:**
 
@@ -96,7 +100,7 @@ Uma vez que esse repositório esteja ativo na sua máquina:
 
 (avançado)
 
-- [ ] Criar a opção de selecionar layout para a imagem (formas, cores e tamanhos
+- [ ] Criar a opção de selecionar layout para a imagem (alterando formas, cores e tamanhos)
 
 Divirta-se!
 
@@ -104,21 +108,35 @@ Divirta-se!
 
 ## Autoras
 
-Código para o Google Colab: 
+Contribuiu com:
 
-- Professora [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br) - Data Science e Inteligência Artificial
-- Email: juliana-scudilio@uol.com.br
+1.  **wcloud.py**
+2.  **colab.ipynb**
+3. README.md
+4. LICENSE.md
+5. CONTRIBUTING.md
+6. example.png
 
-![JULIANA SCUDILIO](https://media-exp1.licdn.com/dms/image/C4E03AQEepqyGWj1iww/profile-displayphoto-shrink_200_200/0/1619750599237?e=1643241600&v=beta&t=qxhlW1i4hg-C-Nndyw4z8usKS_KXcQVHBYz_GV0E_lU)
-
-
-
-Código da aplicação Web:
-
-- [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/)
+- [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Gestora de TI e Dev Backend
 - Email: daiene.fortunato@gmail.com
 
 ![Daiene Fortunato](https://media-exp1.licdn.com/dms/image/D4E03AQGBXxy-MaASgA/profile-displayphoto-shrink_200_200/0/1634165214468?e=1643241600&v=beta&t=3nP5RbaTr6Sw_K4_6v255iU3MTWK6u94AF2Cxzf60nk)
+
+
+
+------
+
+Contribuiu com:
+
+1. Origem do **codigocolab.ipynb**
+
+
+
+Professora [**Juliana Scudilho**](https://www.linkedin.com/in/julianascudilio/) da [Flai](flai.com.br) - Data Science e Inteligência Artificial
+
+Email: juliana-scudilio@uol.com.br
+
+![JULIANA SCUDILIO](https://media-exp1.licdn.com/dms/image/C4E03AQEepqyGWj1iww/profile-displayphoto-shrink_200_200/0/1619750599237?e=1643241600&v=beta&t=qxhlW1i4hg-C-Nndyw4z8usKS_KXcQVHBYz_GV0E_lU)
 
 
 
