@@ -4,21 +4,21 @@ Este arquivo é padronizado para todos os meus projetos, se alguma informação 
 
 Ao contribuir com este repositório, discuta primeiro comigo a alteração que deseja fazer por meio de mensagem, e-mail ou qualquer outro método.
 
-Observe que tenho um código de conduta, siga-o em todas as suas interações com o projeto.
+Observe que tenho um código de conduta, siga-o em todas as suas interações comigo, com outros colaboradores e com a construção de alterações no projeto.
 
 ## Processo de solicitação pull
 
-    1. Certifique-se de que todas as dependências de instalação ou construção sejam removidas antes do final da camada
-    2. Exclua arquivos e comentários não relacionados
-    3. Atualize o README.md com detalhes das mudanças na interface, incluindo novas variáveis de ambiente, portas expostas, localizações de arquivos úteis e parâmetros de contêiner.
-    4. Aumente os números de versão em quaisquer arquivos de exemplo e o README.md para a nova versão que esta solicitação de pull representaria. O esquema de controle de versão que uso é SemVer .
+    1. Certifique-se de informar antecipadamente todas as alterações.
+    2. Exclua arquivos e comentários não relacionados.
+    3. Atualize o README.md com detalhes das mudanças na interface, requisitos, novas variáveis de ambiente, portas expostas, localizações de arquivos úteis e parâmetros de contêiner.
+    4. Aumente os números de versão em quaisquer arquivos de exemplo e o README.md para a nova versão que esta solicitação de pull representaria,  seguindo o esquema de versões (se houver).
     5. Você pode mesclar a solicitação de pull depois de obter a aprovação dos autores ou, se não tiver permissão para fazer isso, pode solicitar a um revisor que faça a junção para você.
 
 ## Código de Conduta
 
 **Compromisso**
 
-No interesse de promover um ambiente aberto e acolhedor, eu e qualquer contribuinte nos comprometemos a tornar a participação neste e outros projetos e em nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, tamanho do corpo, deficiência, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+No interesse de promover um ambiente aberto e acolhedor, eu e qualquer contribuinte nos comprometemos a tornar a participação neste e outros projetos e em nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, deficiência, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião e orientação sexual.
 
 **Padrões**
 
