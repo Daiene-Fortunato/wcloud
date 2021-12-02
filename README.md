@@ -119,7 +119,7 @@ Contribuiu com:
 
 
 
-:woman_student: [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Gestora de TI e Dev Backend
+:woman_student: [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Analista de Dados e Desenvolvedora de Sistemas
 
 :email:  daiene.fortunato@gmail.com
 
